@@ -1,4 +1,4 @@
-# 
+# Actualizado AI Music Generator with LSTM preajustes. Con visión por computadora y optimización de modelos — optimizado para el máximo rendimiento.
 
 
 
